@@ -1,1 +1,2 @@
 pillow
+imagemacgick #brew install imagemagick
